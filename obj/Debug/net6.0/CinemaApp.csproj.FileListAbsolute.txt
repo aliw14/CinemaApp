@@ -1,0 +1,15 @@
+/Users/ali/Projects/CinemaApp/CinemaApp/bin/Debug/net6.0/CinemaApp
+/Users/ali/Projects/CinemaApp/CinemaApp/bin/Debug/net6.0/CinemaApp.deps.json
+/Users/ali/Projects/CinemaApp/CinemaApp/bin/Debug/net6.0/CinemaApp.runtimeconfig.json
+/Users/ali/Projects/CinemaApp/CinemaApp/bin/Debug/net6.0/CinemaApp.dll
+/Users/ali/Projects/CinemaApp/CinemaApp/bin/Debug/net6.0/CinemaApp.pdb
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.csproj.AssemblyReference.cache
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.AssemblyInfoInputs.cache
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.AssemblyInfo.cs
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.csproj.CoreCompileInputs.cache
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.dll
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/refint/CinemaApp.dll
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.pdb
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/CinemaApp.genruntimeconfig.cache
+/Users/ali/Projects/CinemaApp/CinemaApp/obj/Debug/net6.0/ref/CinemaApp.dll
